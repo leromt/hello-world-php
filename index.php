@@ -1,5 +1,5 @@
 <?php
 
-echo "Silence is Golden";
+//echo "Silence is Golden";
 
 ?>
